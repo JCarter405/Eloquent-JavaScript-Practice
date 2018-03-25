@@ -1,0 +1,9 @@
+Chpater 2
+
+Functions:
+	* is a piece of program wrapped in a value
+	* such values can be applied in order to run the wrapped program
+	* example: alert("Good Morning!");
+
+	* executing a function is called invoking, calling, or applying
+	* values given to functions are called arguments 
